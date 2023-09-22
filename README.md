@@ -1,5 +1,6 @@
 # CinemaSeating
 A command-line program for managing seating allocation for a movie theatre, developed with emphasis on a test-driven development approach. The movie theatre has fifteen seats, arranged in three rows of five seats. Each row is assigned a letter from A to C, and each seat has a number from 1 to 5.
+
 <br/>
 
 ## Requirements
